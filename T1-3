@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class T01 : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start(){
+        Debug.Log("Hola mundo");   // This is used to write (It has to be assigned to an object to work)
+    }
+
+}
